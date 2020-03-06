@@ -3,4 +3,4 @@ Contains program code for logistic regression on number of eggs and chicks as a 
 
 A help text is shown when calling the program without input arguments. This also shows the available options.
 
-The program uses the hydrasub library, found at http://folk.uio.no/hydrasub. This library will later be moved to Github.
+The program uses the Hydrasub library, found at http://folk.uio.no/hydrasub, but a packed copy of that library is found here. This library will later be moved to Github.
